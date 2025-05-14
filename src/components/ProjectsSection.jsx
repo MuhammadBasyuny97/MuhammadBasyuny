@@ -65,6 +65,16 @@ const projects = [
     demoUrl: "https://github.com/MuhammadBasyuny97/Online-Shop",
     githubUrl: "https://github.com/MuhammadBasyuny97/Online-Shop",
   },
+ {
+    id: 5,
+    title: "Modern-Landing-Page",
+    description:
+      " A Responsive React Landing Page | React and TailwindCSS, Zustand",
+    image: "/projects/landingpage.png",
+    tags: ["React", "TailwindCss", "Lucide/React", "Zustand"],
+    demoUrl: "https://modern-landing-page-kappa.vercel.app/",
+    githubUrl: "https://github.com/MuhammadBasyuny97/Modern-Landing-Page",
+  },
 ];
 
 export const ProjectsSection = () => {
