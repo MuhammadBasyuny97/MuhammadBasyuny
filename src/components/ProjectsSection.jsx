@@ -6,7 +6,7 @@ const projects = [
     title: "Muhammad Basyuny's Portofolio",
     description:
       "A Modern Animated React + Tailwind Portfolio",
-    image: "/projects/project1.png",
+    image: "/projects/project 4.png",
     tags: [
       "React",
       "TailwindCSS",
