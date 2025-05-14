@@ -37,7 +37,7 @@ const projects = [
     githubUrl: "https://github.com/MuhammadBasyuny97/Ojinale-Store",
   },
   {
-    id: 2,
+    id: 3,
     title: "Code-Zone Courses APIs",
     description:
       "APIs for Code-Zone Courses, a platform for learning programming languages.",
@@ -56,14 +56,14 @@ const projects = [
     githubUrl: "https://github.com/MuhammadBasyuny97/node-courses-project",
   },
   {
-    id: 3,
-    title: "E-commerce Platform",
+    id: 4,
+    title: "MultiShop",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
+      "E-Commerce Application using pure HTMl5, CSS3, Vanilla JavaScript, DOM, OOP, Node.js ,Express and MongoDB",
+    image: "/projects/multishop.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://github.com/MuhammadBasyuny97/Online-Shop",
+    githubUrl: "https://github.com/MuhammadBasyuny97/Online-Shop",
   },
 ];
 
