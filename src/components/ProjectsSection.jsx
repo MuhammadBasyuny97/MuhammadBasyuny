@@ -1,8 +1,27 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
-  {
+ {
     id: 1,
+    title: "Muhammad Basyuny's Portofolio",
+    description:
+      "A Modern Animated React + Tailwind Portfolio",
+    image: "/projects/project1.png",
+    tags: [
+      "React",
+      "TailwindCSS",
+      "Zustand",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Redis",
+      "Stripe",
+    ],
+    demoUrl: "https://muhammad-basyuny.vercel.app",
+    githubUrl: "https://github.com/MuhammadBasyuny97/MuhammadBasyuny",
+  },
+  {
+    id: 2,
     title: "Ojinale Store",
     description:
       "Full-featured e-commerce platform with user authentication and payment processing.",
