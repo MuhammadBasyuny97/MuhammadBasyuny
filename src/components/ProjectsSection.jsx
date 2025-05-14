@@ -22,7 +22,7 @@ const projects = [
     title: "Ojinale Store",
     description:
       "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project1.png",
+    image: "/projects/ojinalestore.png",
     tags: [
       "React",
       "TailwindCSS",
