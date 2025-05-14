@@ -11,11 +11,8 @@ const projects = [
       "React",
       "TailwindCSS",
       "Zustand",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Redis",
-      "Stripe",
+      "Toast",
+      ,"Lucide/React"
     ],
     demoUrl: "https://muhammad-basyuny.vercel.app",
     githubUrl: "https://github.com/MuhammadBasyuny97/MuhammadBasyuny",
