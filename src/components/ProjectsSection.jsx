@@ -61,7 +61,7 @@ const projects = [
     description:
       "E-Commerce Application using pure HTMl5, CSS3, Vanilla JavaScript, DOM, OOP, Node.js ,Express and MongoDB",
     image: "/projects/multishop.png",
-    tags: ["React", "Node.js", "Stripe"],
+    tags: ["HTML5", "CSS3", "Vanilla JavaScript", "DOM", "OOP", "Node.js", "Express", "MongoDB"],
     demoUrl: "https://github.com/MuhammadBasyuny97/Online-Shop",
     githubUrl: "https://github.com/MuhammadBasyuny97/Online-Shop",
   },
